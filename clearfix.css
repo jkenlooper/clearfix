@@ -1,0 +1,4 @@
+/* Clearfix: contain floats (old style from h5bp) */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }

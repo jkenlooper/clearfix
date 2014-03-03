@@ -1,0 +1,13 @@
+{
+  "name": "clearfix",
+  "repo": "jkenlooper/clearfix",
+  "description": "clearfix component for containing css floats",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "clearfix.css"
+  ]
+}
